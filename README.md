@@ -11,6 +11,7 @@ Comandos
 Github 
 Ramas 
 Repositorios 
+Creado por Platzi
 
 *Si quieres ver el curso dejo su enlace (https://platzi.com/clases/1557-git-github/19977-readmemd-es-una-excelente-practica/)
 
